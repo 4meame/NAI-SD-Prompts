@@ -84,6 +84,7 @@ thick lines, 粗线条
 sample color bcakground, 纯色背景  
 
 特定画师风格：  
+https://rentry.org/anime_and_titties  
 by famous artist,  
 by Kon Satoshi, 今敏  
 by Wadim Kashin, 奇幻厚涂色彩瑰丽  
