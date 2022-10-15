@@ -102,7 +102,7 @@ by Max Beckmann, by Milton Avery
 参考资料：  
 https://rentry.org/sdupdates#prompting  
 https://rentry.org/robs-novel-ai-tips  
-
+https://dskjal.com/others/waifu-diffusion-workflow.html
 
 负面咒语补充，如有需要可添加：  
 ugly,duplicate,morbid,mutilated,tranny,trans,trannsexual,mutation,deformed,long neck,bad anatomy,bad proportions,extra arms,extra legs, disfigured,more than 2 nipples,malformed,mutated,hermaphrodite,out of frame,extra limbs,missing arms,missing legs,poorly drawn hands,poorty drawn face,mutation,poorly drawn,long body,multiple breasts,cloned face,gross proportions, mutated hands,bad hands,bad feet,long neck,missing limb,malformed limbs,malformed hands,fused fingers,too many fingers,extra fingers,missing fingers,extra digit,fewer digits,mutated hands and fingers,lowres,text,error,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,text font ui,futa,yaoi  
