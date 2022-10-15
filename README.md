@@ -20,7 +20,7 @@
 
 4、小贴士：  
 ·"Anime screencap"原语会制造动漫中的场景  
-·“character \(franchise\)”原语结构可以实现某个系列(franchise)的某个角色(character)  
+·“character\(franchise\)”原语结构可以实现某个系列(franchise)的某个角色(character)  
 ·“——”下划线很难被AI识别  
 ·使用NAI网站本身而不是泄漏模型，则使用27个step而不是28个step  
 ·使用基础图像并对其进行编辑时，“strength”就是AI使用的step数，50%=25step，80%=40step  
