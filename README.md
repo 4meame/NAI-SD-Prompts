@@ -57,6 +57,7 @@ masterpiece portrait,detailed 4k CG,
 character profile,  character sheet, 人物简介,人物表  偏重人物形态和表情  
 diagram, schematic, blueprint, 图表,示意图,蓝图  偏重武器和道具  
 design document, character concept, 设计文件，人物概念，  
+
 portrait, 肖像头像  
 pixel art,  
 realistic shadows,  
@@ -79,6 +80,7 @@ aestheticism painting, 唯美主义绘画
 art nouveau, 新艺术  
 anime screeshot, 动画截图, 糊糊的  
 oil painting, 油画  
+retro painting, celluloid style, 赛璐璐  
 80s (style), 1990s (style), 年代风格  
 chibi, Q版  
 thick lines, 粗线条  
