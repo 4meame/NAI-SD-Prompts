@@ -56,8 +56,7 @@ masterpiece portrait,detailed 4k CG,
 风格倾向：official art,   
 character profile,  character sheet, 人物简介,人物表  偏重人物形态和表情  
 diagram, schematic, blueprint, 图表,示意图,蓝图  偏重武器和道具  
-design document, character concept, 设计文件，人物概念，  
-
+design document, character concept, alternate costume setup，设计文件，人物概念，  
 portrait, 肖像头像  
 pixel art,  
 realistic shadows,  
